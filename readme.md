@@ -2,4 +2,4 @@
 
 ---
 
-This repository will be the housing for any spec work.
+This GitHub site contains the specs and website for Hypermarkdown.
